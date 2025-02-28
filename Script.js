@@ -1,4 +1,4 @@
-const API_URL = "https://germanwebsite.onrender.com"; 
+const API_URL = "https://germanwebsite.onrender.com/likes"; 
 
 // Select like button and counter
 const likeButton = document.querySelector(".like-button");
